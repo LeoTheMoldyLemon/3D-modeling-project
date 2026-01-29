@@ -3,5 +3,7 @@ Project for the Faculty of Electrical Engineering and Computing of the Universit
 
 
 
-https://github.com/user-attachments/assets/6144aecf-caa6-4f89-a3ec-6c957f7b1990
+
+
+https://github.com/user-attachments/assets/9be2e4e0-6643-46ce-ac30-c03a911e650f
 
